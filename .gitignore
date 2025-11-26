@@ -1,0 +1,10 @@
+.idea/
+*.iml
+*.iws
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
